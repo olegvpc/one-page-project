@@ -1,3 +1,6 @@
+.page {
+  background-color: green !important;
+}
 @import url(../vendor/normalize.css);
 
 @import url(../blocks/page/page.css);
